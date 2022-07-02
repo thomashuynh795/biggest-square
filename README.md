@@ -1,7 +1,7 @@
 Choisissez les variables de la map :<br/>
-x pour la largeur<br/>
-y pour la hauteur<br/>
-density pour la densité d'obstacles (les obstacles sont représentés par des "o")<br/>
+"x" pour la largeur<br/>
+"y" pour la hauteur<br/>
+"density" pour la densité d'obstacles (les obstacles sont représentés par des "o")<br/>
 <br/>
 Avec la commande :<br/>
 perl script x y density > map<br/>
